@@ -1,0 +1,1 @@
+Start the game by running the __main__.py file.
